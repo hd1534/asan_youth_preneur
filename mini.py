@@ -1,5 +1,5 @@
 from flask import Flask
-from flask_restplus import Api, Resource
+from flask_restplus import Api, Resource, fields
 from flask import url_for
 from flask_cors import CORS
 
